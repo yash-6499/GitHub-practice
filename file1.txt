@@ -1,0 +1,7 @@
+yash 
+
+age 24
+
+father - rajesh
+
+mother - dimple
