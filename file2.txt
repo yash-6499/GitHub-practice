@@ -7,3 +7,5 @@ age 24
 occupation - soft. eng
 
 city kolkata
+
+temp - 41
